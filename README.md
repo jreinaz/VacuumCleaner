@@ -1,2 +1,2 @@
 # VacuumCleaner
-VacuumCleaner Minigame
+VacuumCleaner Minigame Using OOP and Design Patterns.
