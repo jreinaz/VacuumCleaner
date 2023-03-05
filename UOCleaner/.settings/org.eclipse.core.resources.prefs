@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/edu/uoc/uocleaner/model/Dirt.java=UTF-8
+encoding//src/edu/uoc/uocleaner/model/Dumpster.java=UTF-8
+encoding//src/edu/uoc/uocleaner/model/DumpsterException.java=UTF-8
+encoding//src/edu/uoc/uocleaner/model/DustBall.java=UTF-8
+encoding//src/edu/uoc/uocleaner/model/tests/DustBallTest.java=ISO-8859-1

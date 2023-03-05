@@ -1,0 +1,5 @@
+edu.uoc.uocleaner.controller
+edu.uoc.uocleaner.model
+edu.uoc.uocleaner.model.tests
+edu.uoc.uocleaner.view.cmd
+edu.uoc.uocleaner.view.gui
